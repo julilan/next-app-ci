@@ -1,3 +1,5 @@
+[![CI](https://github.com/julilan/next-app-ci/actions/workflows/main.yml/badge.svg)](https://github.com/julilan/next-app-ci/actions/workflows/main.yml)
+
 # Next.js App
 
 The purpose of this repo is to practice setting up a relevant Github Actions workflow and containerizing the application.
